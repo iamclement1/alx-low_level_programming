@@ -1,8 +1,3 @@
-/*
- * File: 0-memset.c
- * Auth: Lilian
- */
-
 #include "main.h"
 
 /**
